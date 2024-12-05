@@ -1,0 +1,30 @@
+{
+  "name": "importacaoback4app",
+  "version": "1.0.0",
+  "description": "Automatização da importação de dados para o Back4App com scripts personalizados em JavaScript.",
+  "main": "seedTemplate.js",
+  "scripts": {
+    "start": "node seedTemplate.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install-dependencies": "npm install parse"
+  },
+  "keywords": [
+    "back4app",
+    "importação de dados",
+    "JavaScript",
+    "automação"
+  ],
+  "author": "Seu Nome ou Nome da Equipe",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SEU_USUARIO/importacaoback4app.git"
+  },
+  "dependencies": {
+    "parse": "^5.3.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
