@@ -62,7 +62,7 @@ IMPORTACAOBACK4APP/
 <h3>1. Clone o Repositório</h3>
 <p>Baixe o projeto na sua máquina local:</p>
 <pre>
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone https://github.com/MathewSant/ImportacaoBack4App.git
 cd IMPORTACAOBACK4APP
 </pre>
 
