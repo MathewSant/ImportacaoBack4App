@@ -63,7 +63,7 @@ IMPORTACAOBACK4APP/
 <p>Baixe o projeto na sua máquina local:</p>
 <pre>
 git clone https://github.com/MathewSant/ImportacaoBack4App.git
-cd IMPORTACAOBACK4APP
+cd ImportacaoBack4App/
 </pre>
 
 <h3>2. Instale as Dependências</h3>
